@@ -4,6 +4,7 @@
 
 ## Governance and Document Management
 - [Business Central Extended Workflow Pack](https://braintree-brainworx.github.io/BC-Workflow-Pack/)
+- [PowerFlow - BC and PowerAutomate Workflow](https://braintree-brainworx.github.io/PowerFlow/)
 - [DocuVault Sharepoint integration](https://braintree-brainworx.github.io/DocuVault/)
 - [Compliance Document Tracker](https://braintree-brainworx.github.io/Compliance_Document_Tracker/)
 - [PowerFlow Configurable Workflows](https://braintree-brainworx.github.io/PowerFlow/)
